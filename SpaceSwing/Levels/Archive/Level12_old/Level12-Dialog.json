@@ -1,0 +1,35 @@
+{
+
+    "InitialDialog": [
+
+        {   "index": 0,
+            "characterName": "Commander",
+            "dialog" : "So you're the new recurit huh? Good, I’m Commander [Alien Language], but you can call me Commander BLUE , I’ll be your onboard co-piolt to show you the ropes"
+
+        },
+        {   "index": 1,
+            "characterName": "Commander",
+            "dialog" : "Very well, lets get started"
+
+        }
+
+    ],
+    
+    "EndingDialog":[
+        
+        
+        
+        {   "index": 0,
+            "characterName": "Commander",
+            "dialog" : "Good job kid"
+
+        },
+        {   "index": 1,
+            "characterName": "Commander",
+            "dialog" : "That wasnt easy"
+
+        }
+        
+    ]
+    
+}

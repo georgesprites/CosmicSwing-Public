@@ -1,0 +1,42 @@
+{
+
+    "InitialDialog": [
+
+        {   "index": 0,
+            "characterName": "Astro-Flail",
+            "dialog" : "Kid, we're navigating around Venus and Mercury this time"
+
+        },
+        {   "index": 1,
+            "characterName": "Astro-Flail",
+            "dialog" : "These planets are extremely close to the Sun."
+
+        },
+        {   "index": 2,
+            "characterName": "Astro-Flail",
+            "dialog" : "Even though its far away, it exerts a huge amount of gravity."
+           
+
+        },
+        {   "index": 3,
+            "characterName": "Astro-Flail",
+            "dialog" : "Watch out and dont get too close unless you want to be BBQ for dinner"
+           
+
+        }
+
+    ],
+    
+    "EndingDialog":[
+        
+        
+        
+        {   "index": 0,
+            "characterName": "Astro-Flail",
+            "dialog" : "Excellent Maneuvering "
+
+        }
+        
+    ]
+    
+}

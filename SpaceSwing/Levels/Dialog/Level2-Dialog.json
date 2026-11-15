@@ -1,0 +1,61 @@
+{
+
+    "InitialDialog": [
+
+        {   "index": 0,
+            "characterName": "Astro-JohnBike",
+            "dialog" : "Oh great, enemies AND that guy. Look at him — arms everywhere, like he’s trying to signal for a parade."
+
+        },
+        {   "index": 1,
+            "characterName": "Astro-JohnBike",
+            "dialog" : "REDZ don’t usually wander this far out. What are they doing here"
+
+        }
+       
+
+    ],
+    
+    "EndingDialog":[
+        
+        
+        
+        {   "index": 0,
+            "characterName": "Astro-Flail",
+            "dialog" : "AAAH—finally! I’ve been windmilling my arms for hours! Thought maybe it’d make me fly… nope."
+
+
+        },
+        {   "index": 1,
+            "characterName": "Astro-JohnBike",
+            "dialog" : "Ha! Look at you, all arms and no brakes. Maybe try pedals next time."
+
+        },
+        {   "index": 2,
+            "characterName": "Astro-Flail",
+            "dialog" : "…REDZ came outta nowhere. Shot me clean off my course. What are they even doing way out here?"
+
+
+        },
+        {   "index": 3,
+            "characterName": "Astro-JohnBike",
+            "dialog" : "REDZ don’t just patrol empty star systems. Feels like they’re hunting for something..."
+
+        }, {   "index": 4,
+            "characterName": "Astro-JohnBike",
+            "dialog" : "Could they... be after my bike?"
+
+        }, {   "index": 5,
+            "characterName": "Astro-Flail",
+            "dialog" : "Wait a sec... look , what are they doing?"
+
+
+        },
+    
+
+        
+
+        
+    ]
+    
+}

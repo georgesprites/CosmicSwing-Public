@@ -1,0 +1,29 @@
+{
+
+    "InitialDialog": [
+
+        {   "index": 0,
+            "characterName": "Commander",
+            "dialog" : "We received a retrieval call near Mars"
+
+        },
+        {   "index": 1,
+            "characterName": "Commander",
+            "dialog" : "We have an Astro studying the atmosphere there"
+
+        }
+    ],
+    
+    "EndingDialog":[
+        
+        
+        
+        {   "index": 0,
+            "characterName": "Commander",
+            "dialog" : "Good stuff "
+
+        }
+        
+    ]
+    
+}

@@ -1,0 +1,33 @@
+[
+        { 
+            "LevelID": 1,
+            "Unlocked": true,
+            "starsCompleted": 3,
+            "positionX": 0,
+            "positionY": -250,
+            "rotationInAngle": 0,
+           "Astros": [
+                {
+                    "name": "astroJohn",
+                    "positionX": -15,
+                    "positionY": -190
+                }
+            ]
+        },
+        {
+            "LevelID": 2,
+            "Unlocked": false,
+            "starsCompleted": 0,
+            "positionX": 0,
+            "positionY": -250,
+            "rotationInAngle": 0,
+           "Astros": [
+                {
+                    "name": "astroJohn",
+                    "positionX": -15,
+                    "positionY": -190
+                }
+            ]
+        }
+
+    ]

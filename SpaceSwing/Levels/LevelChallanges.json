@@ -1,0 +1,1152 @@
+[
+  {
+    "Level": 1,
+    "Challenges": [
+      {
+        "ChallengeLabel": "COMPLETE UNDER 25'",
+        "ChallengeType": "TimeUnder",
+        "ChallengeGoal": "25",
+        "UserCompleted": false
+      },
+      {
+        "ChallengeLabel": "COLLECT ALL COINS",
+        "ChallengeType": "CoinCollect",
+        "ChallengeGoal": "12",
+        "UserCompleted": false
+      },
+      {
+        "ChallengeLabel": "COLLECT CHALLENGE STAR",
+        "ChallengeType": "ChallengeStar",
+        "ChallengeGoal": "1",
+        "UserCompleted": false
+      }
+    ]
+  },
+  {
+    "Level": 2,
+    "Challenges": [
+      {
+        "ChallengeLabel": "COMPLETE UNDER 30'",
+        "ChallengeType": "TimeUnder",
+        "ChallengeGoal": "30",
+        "UserCompleted": false
+      },
+      {
+        "ChallengeLabel": "COLLECT ALL COINS",
+        "ChallengeType": "CoinCollect",
+        "ChallengeGoal": "14",
+        "UserCompleted": false
+      },
+      {
+        "ChallengeLabel": "COLLECT CHALLENGE STAR",
+        "ChallengeType": "ChallengeStar",
+        "ChallengeGoal": "1",
+        "UserCompleted": false
+      }
+    ]
+  },
+  {
+    "Level": 3,
+    "Challenges": [
+      {
+        "ChallengeLabel": "COMPLETE UNDER 35'",
+        "ChallengeType": "TimeUnder",
+        "ChallengeGoal": "35",
+        "UserCompleted": false
+      },
+      {
+        "ChallengeLabel": "COLLECT ALL COINS",
+        "ChallengeType": "CoinCollect",
+        "ChallengeGoal": "16",
+        "UserCompleted": false
+      },
+      {
+        "ChallengeLabel": "COLLECT CHALLENGE STAR",
+        "ChallengeType": "ChallengeStar",
+        "ChallengeGoal": "1",
+        "UserCompleted": false
+      }
+    ]
+  },
+  {
+    "Level": 4,
+    "Challenges": [
+      {
+        "ChallengeLabel": "COMPLETE UNDER 40'",
+        "ChallengeType": "TimeUnder",
+        "ChallengeGoal": "40",
+        "UserCompleted": false
+      },
+      {
+        "ChallengeLabel": "COLLECT ALL COINS",
+        "ChallengeType": "CoinCollect",
+        "ChallengeGoal": "18",
+        "UserCompleted": false
+      },
+      {
+        "ChallengeLabel": "COLLECT CHALLENGE STAR",
+        "ChallengeType": "ChallengeStar",
+        "ChallengeGoal": "1",
+        "UserCompleted": false
+      }
+    ]
+  },
+  {
+    "Level": 5,
+    "Challenges": [
+      {
+        "ChallengeLabel": "COMPLETE UNDER 45'",
+        "ChallengeType": "TimeUnder",
+        "ChallengeGoal": "45",
+        "UserCompleted": false
+      },
+      {
+        "ChallengeLabel": "COLLECT ALL COINS",
+        "ChallengeType": "CoinCollect",
+        "ChallengeGoal": "20",
+        "UserCompleted": false
+      },
+      {
+        "ChallengeLabel": "COLLECT CHALLENGE STAR",
+        "ChallengeType": "ChallengeStar",
+        "ChallengeGoal": "1",
+        "UserCompleted": false
+      }
+    ]
+  },
+  {
+    "Level": 6,
+    "Challenges": [
+      {
+        "ChallengeLabel": "COMPLETE UNDER 50'",
+        "ChallengeType": "TimeUnder",
+        "ChallengeGoal": "50",
+        "UserCompleted": false
+      },
+      {
+        "ChallengeLabel": "COLLECT ALL COINS",
+        "ChallengeType": "CoinCollect",
+        "ChallengeGoal": "22",
+        "UserCompleted": false
+      },
+      {
+        "ChallengeLabel": "COLLECT CHALLENGE STAR",
+        "ChallengeType": "ChallengeStar",
+        "ChallengeGoal": "1",
+        "UserCompleted": false
+      }
+    ]
+  },
+  {
+    "Level": 7,
+    "Challenges": [
+      {
+        "ChallengeLabel": "COMPLETE UNDER 55'",
+        "ChallengeType": "TimeUnder",
+        "ChallengeGoal": "55",
+        "UserCompleted": false
+      },
+      {
+        "ChallengeLabel": "COLLECT ALL COINS",
+        "ChallengeType": "CoinCollect",
+        "ChallengeGoal": "24",
+        "UserCompleted": false
+      },
+      {
+        "ChallengeLabel": "COLLECT CHALLENGE STAR",
+        "ChallengeType": "ChallengeStar",
+        "ChallengeGoal": "1",
+        "UserCompleted": false
+      }
+    ]
+  },
+  {
+    "Level": 8,
+    "Challenges": [
+      {
+        "ChallengeLabel": "COMPLETE UNDER 60'",
+        "ChallengeType": "TimeUnder",
+        "ChallengeGoal": "60",
+        "UserCompleted": false
+      },
+      {
+        "ChallengeLabel": "COLLECT ALL COINS",
+        "ChallengeType": "CoinCollect",
+        "ChallengeGoal": "26",
+        "UserCompleted": false
+      },
+      {
+        "ChallengeLabel": "COLLECT CHALLENGE STAR",
+        "ChallengeType": "ChallengeStar",
+        "ChallengeGoal": "1",
+        "UserCompleted": false
+      }
+    ]
+  },
+  {
+    "Level": 9,
+    "Challenges": [
+      {
+        "ChallengeLabel": "COMPLETE UNDER 65'",
+        "ChallengeType": "TimeUnder",
+        "ChallengeGoal": "65",
+        "UserCompleted": false
+      },
+      {
+        "ChallengeLabel": "COLLECT ALL COINS",
+        "ChallengeType": "CoinCollect",
+        "ChallengeGoal": "28",
+        "UserCompleted": false
+      },
+      {
+        "ChallengeLabel": "COLLECT CHALLENGE STAR",
+        "ChallengeType": "ChallengeStar",
+        "ChallengeGoal": "1",
+        "UserCompleted": false
+      }
+    ]
+  },
+  {
+    "Level": 10,
+    "Challenges": [
+      {
+        "ChallengeLabel": "COMPLETE UNDER 70'",
+        "ChallengeType": "TimeUnder",
+        "ChallengeGoal": "70",
+        "UserCompleted": false
+      },
+      {
+        "ChallengeLabel": "COLLECT ALL COINS",
+        "ChallengeType": "CoinCollect",
+        "ChallengeGoal": "30",
+        "UserCompleted": false
+      },
+      {
+        "ChallengeLabel": "COLLECT CHALLENGE STAR",
+        "ChallengeType": "ChallengeStar",
+        "ChallengeGoal": "1",
+        "UserCompleted": false
+      }
+    ]
+  },
+  {
+    "Level": 11,
+    "Challenges": [
+      {
+        "ChallengeLabel": "COMPLETE UNDER 75'",
+        "ChallengeType": "TimeUnder",
+        "ChallengeGoal": "75",
+        "UserCompleted": false
+      },
+      {
+        "ChallengeLabel": "COLLECT ALL COINS",
+        "ChallengeType": "CoinCollect",
+        "ChallengeGoal": "32",
+        "UserCompleted": false
+      },
+      {
+        "ChallengeLabel": "COLLECT CHALLENGE STAR",
+        "ChallengeType": "ChallengeStar",
+        "ChallengeGoal": "1",
+        "UserCompleted": false
+      }
+    ]
+  },
+  {
+    "Level": 12,
+    "Challenges": [
+      {
+        "ChallengeLabel": "COMPLETE UNDER 80'",
+        "ChallengeType": "TimeUnder",
+        "ChallengeGoal": "80",
+        "UserCompleted": false
+      },
+      {
+        "ChallengeLabel": "COLLECT ALL COINS",
+        "ChallengeType": "CoinCollect",
+        "ChallengeGoal": "34",
+        "UserCompleted": false
+      },
+      {
+        "ChallengeLabel": "COLLECT CHALLENGE STAR",
+        "ChallengeType": "ChallengeStar",
+        "ChallengeGoal": "1",
+        "UserCompleted": false
+      }
+    ]
+  },
+  {
+    "Level": 13,
+    "Challenges": [
+      {
+        "ChallengeLabel": "COMPLETE UNDER 85'",
+        "ChallengeType": "TimeUnder",
+        "ChallengeGoal": "85",
+        "UserCompleted": false
+      },
+      {
+        "ChallengeLabel": "COLLECT ALL COINS",
+        "ChallengeType": "CoinCollect",
+        "ChallengeGoal": "36",
+        "UserCompleted": false
+      },
+      {
+        "ChallengeLabel": "COLLECT CHALLENGE STAR",
+        "ChallengeType": "ChallengeStar",
+        "ChallengeGoal": "1",
+        "UserCompleted": false
+      }
+    ]
+  },
+  {
+    "Level": 14,
+    "Challenges": [
+      {
+        "ChallengeLabel": "COMPLETE UNDER 90'",
+        "ChallengeType": "TimeUnder",
+        "ChallengeGoal": "90",
+        "UserCompleted": false
+      },
+      {
+        "ChallengeLabel": "COLLECT ALL COINS",
+        "ChallengeType": "CoinCollect",
+        "ChallengeGoal": "38",
+        "UserCompleted": false
+      },
+      {
+        "ChallengeLabel": "COLLECT CHALLENGE STAR",
+        "ChallengeType": "ChallengeStar",
+        "ChallengeGoal": "1",
+        "UserCompleted": false
+      }
+    ]
+  },
+  {
+    "Level": 15,
+    "Challenges": [
+      {
+        "ChallengeLabel": "COMPLETE UNDER 95'",
+        "ChallengeType": "TimeUnder",
+        "ChallengeGoal": "95",
+        "UserCompleted": false
+      },
+      {
+        "ChallengeLabel": "COLLECT ALL COINS",
+        "ChallengeType": "CoinCollect",
+        "ChallengeGoal": "40",
+        "UserCompleted": false
+      },
+      {
+        "ChallengeLabel": "COLLECT CHALLENGE STAR",
+        "ChallengeType": "ChallengeStar",
+        "ChallengeGoal": "1",
+        "UserCompleted": false
+      }
+    ]
+  },
+  {
+    "Level": 16,
+    "Challenges": [
+      {
+        "ChallengeLabel": "COMPLETE UNDER 100'",
+        "ChallengeType": "TimeUnder",
+        "ChallengeGoal": "100",
+        "UserCompleted": false
+      },
+      {
+        "ChallengeLabel": "COLLECT ALL COINS",
+        "ChallengeType": "CoinCollect",
+        "ChallengeGoal": "42",
+        "UserCompleted": false
+      },
+      {
+        "ChallengeLabel": "COLLECT CHALLENGE STAR",
+        "ChallengeType": "ChallengeStar",
+        "ChallengeGoal": "1",
+        "UserCompleted": false
+      }
+    ]
+  },
+  {
+    "Level": 17,
+    "Challenges": [
+      {
+        "ChallengeLabel": "COMPLETE UNDER 105'",
+        "ChallengeType": "TimeUnder",
+        "ChallengeGoal": "105",
+        "UserCompleted": false
+      },
+      {
+        "ChallengeLabel": "COLLECT ALL COINS",
+        "ChallengeType": "CoinCollect",
+        "ChallengeGoal": "44",
+        "UserCompleted": false
+      },
+      {
+        "ChallengeLabel": "COLLECT CHALLENGE STAR",
+        "ChallengeType": "ChallengeStar",
+        "ChallengeGoal": "1",
+        "UserCompleted": false
+      }
+    ]
+  },
+  {
+    "Level": 18,
+    "Challenges": [
+      {
+        "ChallengeLabel": "COMPLETE UNDER 110'",
+        "ChallengeType": "TimeUnder",
+        "ChallengeGoal": "110",
+        "UserCompleted": false
+      },
+      {
+        "ChallengeLabel": "COLLECT ALL COINS",
+        "ChallengeType": "CoinCollect",
+        "ChallengeGoal": "46",
+        "UserCompleted": false
+      },
+      {
+        "ChallengeLabel": "COLLECT CHALLENGE STAR",
+        "ChallengeType": "ChallengeStar",
+        "ChallengeGoal": "1",
+        "UserCompleted": false
+      }
+    ]
+  },
+  {
+    "Level": 19,
+    "Challenges": [
+      {
+        "ChallengeLabel": "COMPLETE UNDER 115'",
+        "ChallengeType": "TimeUnder",
+        "ChallengeGoal": "115",
+        "UserCompleted": false
+      },
+      {
+        "ChallengeLabel": "COLLECT ALL COINS",
+        "ChallengeType": "CoinCollect",
+        "ChallengeGoal": "48",
+        "UserCompleted": false
+      },
+      {
+        "ChallengeLabel": "COLLECT CHALLENGE STAR",
+        "ChallengeType": "ChallengeStar",
+        "ChallengeGoal": "1",
+        "UserCompleted": false
+      }
+    ]
+  },
+  {
+    "Level": 20,
+    "Challenges": [
+      {
+        "ChallengeLabel": "COMPLETE UNDER 120'",
+        "ChallengeType": "TimeUnder",
+        "ChallengeGoal": "120",
+        "UserCompleted": false
+      },
+      {
+        "ChallengeLabel": "COLLECT ALL COINS",
+        "ChallengeType": "CoinCollect",
+        "ChallengeGoal": "50",
+        "UserCompleted": false
+      },
+      {
+        "ChallengeLabel": "COLLECT CHALLENGE STAR",
+        "ChallengeType": "ChallengeStar",
+        "ChallengeGoal": "1",
+        "UserCompleted": false
+      }
+    ]
+  },
+  {
+    "Level": 21,
+    "Challenges": [
+      {
+        "ChallengeLabel": "COMPLETE UNDER 125'",
+        "ChallengeType": "TimeUnder",
+        "ChallengeGoal": "125",
+        "UserCompleted": false
+      },
+      {
+        "ChallengeLabel": "COLLECT ALL COINS",
+        "ChallengeType": "CoinCollect",
+        "ChallengeGoal": "52",
+        "UserCompleted": false
+      },
+      {
+        "ChallengeLabel": "COLLECT CHALLENGE STAR",
+        "ChallengeType": "ChallengeStar",
+        "ChallengeGoal": "1",
+        "UserCompleted": false
+      }
+    ]
+  },
+  {
+    "Level": 22,
+    "Challenges": [
+      {
+        "ChallengeLabel": "COMPLETE UNDER 130'",
+        "ChallengeType": "TimeUnder",
+        "ChallengeGoal": "130",
+        "UserCompleted": false
+      },
+      {
+        "ChallengeLabel": "COLLECT ALL COINS",
+        "ChallengeType": "CoinCollect",
+        "ChallengeGoal": "54",
+        "UserCompleted": false
+      },
+      {
+        "ChallengeLabel": "COLLECT CHALLENGE STAR",
+        "ChallengeType": "ChallengeStar",
+        "ChallengeGoal": "1",
+        "UserCompleted": false
+      }
+    ]
+  },
+  {
+    "Level": 23,
+    "Challenges": [
+      {
+        "ChallengeLabel": "COMPLETE UNDER 135'",
+        "ChallengeType": "TimeUnder",
+        "ChallengeGoal": "135",
+        "UserCompleted": false
+      },
+      {
+        "ChallengeLabel": "COLLECT ALL COINS",
+        "ChallengeType": "CoinCollect",
+        "ChallengeGoal": "56",
+        "UserCompleted": false
+      },
+      {
+        "ChallengeLabel": "COLLECT CHALLENGE STAR",
+        "ChallengeType": "ChallengeStar",
+        "ChallengeGoal": "1",
+        "UserCompleted": false
+      }
+    ]
+  },
+  {
+    "Level": 24,
+    "Challenges": [
+      {
+        "ChallengeLabel": "COMPLETE UNDER 140'",
+        "ChallengeType": "TimeUnder",
+        "ChallengeGoal": "140",
+        "UserCompleted": false
+      },
+      {
+        "ChallengeLabel": "COLLECT ALL COINS",
+        "ChallengeType": "CoinCollect",
+        "ChallengeGoal": "58",
+        "UserCompleted": false
+      },
+      {
+        "ChallengeLabel": "COLLECT CHALLENGE STAR",
+        "ChallengeType": "ChallengeStar",
+        "ChallengeGoal": "1",
+        "UserCompleted": false
+      }
+    ]
+  },
+  {
+    "Level": 25,
+    "Challenges": [
+      {
+        "ChallengeLabel": "COMPLETE UNDER 145'",
+        "ChallengeType": "TimeUnder",
+        "ChallengeGoal": "145",
+        "UserCompleted": false
+      },
+      {
+        "ChallengeLabel": "COLLECT ALL COINS",
+        "ChallengeType": "CoinCollect",
+        "ChallengeGoal": "60",
+        "UserCompleted": false
+      },
+      {
+        "ChallengeLabel": "COLLECT CHALLENGE STAR",
+        "ChallengeType": "ChallengeStar",
+        "ChallengeGoal": "1",
+        "UserCompleted": false
+      }
+    ]
+  },
+  {
+    "Level": 26,
+    "Challenges": [
+      {
+        "ChallengeLabel": "COMPLETE UNDER 150'",
+        "ChallengeType": "TimeUnder",
+        "ChallengeGoal": "150",
+        "UserCompleted": false
+      },
+      {
+        "ChallengeLabel": "COLLECT ALL COINS",
+        "ChallengeType": "CoinCollect",
+        "ChallengeGoal": "62",
+        "UserCompleted": false
+      },
+      {
+        "ChallengeLabel": "COLLECT CHALLENGE STAR",
+        "ChallengeType": "ChallengeStar",
+        "ChallengeGoal": "1",
+        "UserCompleted": false
+      }
+    ]
+  },
+  {
+    "Level": 27,
+    "Challenges": [
+      {
+        "ChallengeLabel": "COMPLETE UNDER 155'",
+        "ChallengeType": "TimeUnder",
+        "ChallengeGoal": "155",
+        "UserCompleted": false
+      },
+      {
+        "ChallengeLabel": "COLLECT ALL COINS",
+        "ChallengeType": "CoinCollect",
+        "ChallengeGoal": "64",
+        "UserCompleted": false
+      },
+      {
+        "ChallengeLabel": "COLLECT CHALLENGE STAR",
+        "ChallengeType": "ChallengeStar",
+        "ChallengeGoal": "1",
+        "UserCompleted": false
+      }
+    ]
+  },
+  {
+    "Level": 28,
+    "Challenges": [
+      {
+        "ChallengeLabel": "COMPLETE UNDER 160'",
+        "ChallengeType": "TimeUnder",
+        "ChallengeGoal": "160",
+        "UserCompleted": false
+      },
+      {
+        "ChallengeLabel": "COLLECT ALL COINS",
+        "ChallengeType": "CoinCollect",
+        "ChallengeGoal": "66",
+        "UserCompleted": false
+      },
+      {
+        "ChallengeLabel": "COLLECT CHALLENGE STAR",
+        "ChallengeType": "ChallengeStar",
+        "ChallengeGoal": "1",
+        "UserCompleted": false
+      }
+    ]
+  },
+  {
+    "Level": 29,
+    "Challenges": [
+      {
+        "ChallengeLabel": "COMPLETE UNDER 165'",
+        "ChallengeType": "TimeUnder",
+        "ChallengeGoal": "165",
+        "UserCompleted": false
+      },
+      {
+        "ChallengeLabel": "COLLECT ALL COINS",
+        "ChallengeType": "CoinCollect",
+        "ChallengeGoal": "68",
+        "UserCompleted": false
+      },
+      {
+        "ChallengeLabel": "COLLECT CHALLENGE STAR",
+        "ChallengeType": "ChallengeStar",
+        "ChallengeGoal": "1",
+        "UserCompleted": false
+      }
+    ]
+  },
+  {
+    "Level": 30,
+    "Challenges": [
+      {
+        "ChallengeLabel": "COMPLETE UNDER 170'",
+        "ChallengeType": "TimeUnder",
+        "ChallengeGoal": "170",
+        "UserCompleted": false
+      },
+      {
+        "ChallengeLabel": "COLLECT ALL COINS",
+        "ChallengeType": "CoinCollect",
+        "ChallengeGoal": "70",
+        "UserCompleted": false
+      },
+      {
+        "ChallengeLabel": "COLLECT CHALLENGE STAR",
+        "ChallengeType": "ChallengeStar",
+        "ChallengeGoal": "1",
+        "UserCompleted": false
+      }
+    ]
+  },
+  {
+    "Level": 31,
+    "Challenges": [
+      {
+        "ChallengeLabel": "COMPLETE UNDER 175'",
+        "ChallengeType": "TimeUnder",
+        "ChallengeGoal": "175",
+        "UserCompleted": false
+      },
+      {
+        "ChallengeLabel": "COLLECT ALL COINS",
+        "ChallengeType": "CoinCollect",
+        "ChallengeGoal": "72",
+        "UserCompleted": false
+      },
+      {
+        "ChallengeLabel": "COLLECT CHALLENGE STAR",
+        "ChallengeType": "ChallengeStar",
+        "ChallengeGoal": "1",
+        "UserCompleted": false
+      }
+    ]
+  },
+  {
+    "Level": 32,
+    "Challenges": [
+      {
+        "ChallengeLabel": "COMPLETE UNDER 180'",
+        "ChallengeType": "TimeUnder",
+        "ChallengeGoal": "180",
+        "UserCompleted": false
+      },
+      {
+        "ChallengeLabel": "COLLECT ALL COINS",
+        "ChallengeType": "CoinCollect",
+        "ChallengeGoal": "74",
+        "UserCompleted": false
+      },
+      {
+        "ChallengeLabel": "COLLECT CHALLENGE STAR",
+        "ChallengeType": "ChallengeStar",
+        "ChallengeGoal": "1",
+        "UserCompleted": false
+      }
+    ]
+  },
+  {
+    "Level": 33,
+    "Challenges": [
+      {
+        "ChallengeLabel": "COMPLETE UNDER 185'",
+        "ChallengeType": "TimeUnder",
+        "ChallengeGoal": "185",
+        "UserCompleted": false
+      },
+      {
+        "ChallengeLabel": "COLLECT ALL COINS",
+        "ChallengeType": "CoinCollect",
+        "ChallengeGoal": "76",
+        "UserCompleted": false
+      },
+      {
+        "ChallengeLabel": "COLLECT CHALLENGE STAR",
+        "ChallengeType": "ChallengeStar",
+        "ChallengeGoal": "1",
+        "UserCompleted": false
+      }
+    ]
+  },
+  {
+    "Level": 34,
+    "Challenges": [
+      {
+        "ChallengeLabel": "COMPLETE UNDER 190'",
+        "ChallengeType": "TimeUnder",
+        "ChallengeGoal": "190",
+        "UserCompleted": false
+      },
+      {
+        "ChallengeLabel": "COLLECT ALL COINS",
+        "ChallengeType": "CoinCollect",
+        "ChallengeGoal": "78",
+        "UserCompleted": false
+      },
+      {
+        "ChallengeLabel": "COLLECT CHALLENGE STAR",
+        "ChallengeType": "ChallengeStar",
+        "ChallengeGoal": "1",
+        "UserCompleted": false
+      }
+    ]
+  },
+  {
+    "Level": 35,
+    "Challenges": [
+      {
+        "ChallengeLabel": "COMPLETE UNDER 195'",
+        "ChallengeType": "TimeUnder",
+        "ChallengeGoal": "195",
+        "UserCompleted": false
+      },
+      {
+        "ChallengeLabel": "COLLECT ALL COINS",
+        "ChallengeType": "CoinCollect",
+        "ChallengeGoal": "80",
+        "UserCompleted": false
+      },
+      {
+        "ChallengeLabel": "COLLECT CHALLENGE STAR",
+        "ChallengeType": "ChallengeStar",
+        "ChallengeGoal": "1",
+        "UserCompleted": false
+      }
+    ]
+  },
+  {
+    "Level": 36,
+    "Challenges": [
+      {
+        "ChallengeLabel": "COMPLETE UNDER 200'",
+        "ChallengeType": "TimeUnder",
+        "ChallengeGoal": "200",
+        "UserCompleted": false
+      },
+      {
+        "ChallengeLabel": "COLLECT ALL COINS",
+        "ChallengeType": "CoinCollect",
+        "ChallengeGoal": "82",
+        "UserCompleted": false
+      },
+      {
+        "ChallengeLabel": "COLLECT CHALLENGE STAR",
+        "ChallengeType": "ChallengeStar",
+        "ChallengeGoal": "1",
+        "UserCompleted": false
+      }
+    ]
+  },
+  {
+    "Level": 37,
+    "Challenges": [
+      {
+        "ChallengeLabel": "COMPLETE UNDER 205'",
+        "ChallengeType": "TimeUnder",
+        "ChallengeGoal": "205",
+        "UserCompleted": false
+      },
+      {
+        "ChallengeLabel": "COLLECT ALL COINS",
+        "ChallengeType": "CoinCollect",
+        "ChallengeGoal": "84",
+        "UserCompleted": false
+      },
+      {
+        "ChallengeLabel": "COLLECT CHALLENGE STAR",
+        "ChallengeType": "ChallengeStar",
+        "ChallengeGoal": "1",
+        "UserCompleted": false
+      }
+    ]
+  },
+  {
+    "Level": 38,
+    "Challenges": [
+      {
+        "ChallengeLabel": "COMPLETE UNDER 210'",
+        "ChallengeType": "TimeUnder",
+        "ChallengeGoal": "210",
+        "UserCompleted": false
+      },
+      {
+        "ChallengeLabel": "COLLECT ALL COINS",
+        "ChallengeType": "CoinCollect",
+        "ChallengeGoal": "86",
+        "UserCompleted": false
+      },
+      {
+        "ChallengeLabel": "COLLECT CHALLENGE STAR",
+        "ChallengeType": "ChallengeStar",
+        "ChallengeGoal": "1",
+        "UserCompleted": false
+      }
+    ]
+  },
+  {
+    "Level": 39,
+    "Challenges": [
+      {
+        "ChallengeLabel": "COMPLETE UNDER 215'",
+        "ChallengeType": "TimeUnder",
+        "ChallengeGoal": "215",
+        "UserCompleted": false
+      },
+      {
+        "ChallengeLabel": "COLLECT ALL COINS",
+        "ChallengeType": "CoinCollect",
+        "ChallengeGoal": "88",
+        "UserCompleted": false
+      },
+      {
+        "ChallengeLabel": "COLLECT CHALLENGE STAR",
+        "ChallengeType": "ChallengeStar",
+        "ChallengeGoal": "1",
+        "UserCompleted": false
+      }
+    ]
+  },
+  {
+    "Level": 40,
+    "Challenges": [
+      {
+        "ChallengeLabel": "COMPLETE UNDER 220'",
+        "ChallengeType": "TimeUnder",
+        "ChallengeGoal": "220",
+        "UserCompleted": false
+      },
+      {
+        "ChallengeLabel": "COLLECT ALL COINS",
+        "ChallengeType": "CoinCollect",
+        "ChallengeGoal": "90",
+        "UserCompleted": false
+      },
+      {
+        "ChallengeLabel": "COLLECT CHALLENGE STAR",
+        "ChallengeType": "ChallengeStar",
+        "ChallengeGoal": "1",
+        "UserCompleted": false
+      }
+    ]
+  },
+  {
+    "Level": 41,
+    "Challenges": [
+      {
+        "ChallengeLabel": "COMPLETE UNDER 225'",
+        "ChallengeType": "TimeUnder",
+        "ChallengeGoal": "225",
+        "UserCompleted": false
+      },
+      {
+        "ChallengeLabel": "COLLECT ALL COINS",
+        "ChallengeType": "CoinCollect",
+        "ChallengeGoal": "92",
+        "UserCompleted": false
+      },
+      {
+        "ChallengeLabel": "COLLECT CHALLENGE STAR",
+        "ChallengeType": "ChallengeStar",
+        "ChallengeGoal": "1",
+        "UserCompleted": false
+      }
+    ]
+  },
+  {
+    "Level": 42,
+    "Challenges": [
+      {
+        "ChallengeLabel": "COMPLETE UNDER 230'",
+        "ChallengeType": "TimeUnder",
+        "ChallengeGoal": "230",
+        "UserCompleted": false
+      },
+      {
+        "ChallengeLabel": "COLLECT ALL COINS",
+        "ChallengeType": "CoinCollect",
+        "ChallengeGoal": "94",
+        "UserCompleted": false
+      },
+      {
+        "ChallengeLabel": "COLLECT CHALLENGE STAR",
+        "ChallengeType": "ChallengeStar",
+        "ChallengeGoal": "1",
+        "UserCompleted": false
+      }
+    ]
+  },
+  {
+    "Level": 43,
+    "Challenges": [
+      {
+        "ChallengeLabel": "COMPLETE UNDER 235'",
+        "ChallengeType": "TimeUnder",
+        "ChallengeGoal": "235",
+        "UserCompleted": false
+      },
+      {
+        "ChallengeLabel": "COLLECT ALL COINS",
+        "ChallengeType": "CoinCollect",
+        "ChallengeGoal": "96",
+        "UserCompleted": false
+      },
+      {
+        "ChallengeLabel": "COLLECT CHALLENGE STAR",
+        "ChallengeType": "ChallengeStar",
+        "ChallengeGoal": "1",
+        "UserCompleted": false
+      }
+    ]
+  },
+  {
+    "Level": 44,
+    "Challenges": [
+      {
+        "ChallengeLabel": "COMPLETE UNDER 240'",
+        "ChallengeType": "TimeUnder",
+        "ChallengeGoal": "240",
+        "UserCompleted": false
+      },
+      {
+        "ChallengeLabel": "COLLECT ALL COINS",
+        "ChallengeType": "CoinCollect",
+        "ChallengeGoal": "98",
+        "UserCompleted": false
+      },
+      {
+        "ChallengeLabel": "COLLECT CHALLENGE STAR",
+        "ChallengeType": "ChallengeStar",
+        "ChallengeGoal": "1",
+        "UserCompleted": false
+      }
+    ]
+  },
+  {
+    "Level": 45,
+    "Challenges": [
+      {
+        "ChallengeLabel": "COMPLETE UNDER 245'",
+        "ChallengeType": "TimeUnder",
+        "ChallengeGoal": "245",
+        "UserCompleted": false
+      },
+      {
+        "ChallengeLabel": "COLLECT ALL COINS",
+        "ChallengeType": "CoinCollect",
+        "ChallengeGoal": "100",
+        "UserCompleted": false
+      },
+      {
+        "ChallengeLabel": "COLLECT CHALLENGE STAR",
+        "ChallengeType": "ChallengeStar",
+        "ChallengeGoal": "1",
+        "UserCompleted": false
+      }
+    ]
+  },
+  {
+    "Level": 46,
+    "Challenges": [
+      {
+        "ChallengeLabel": "COMPLETE UNDER 250'",
+        "ChallengeType": "TimeUnder",
+        "ChallengeGoal": "250",
+        "UserCompleted": false
+      },
+      {
+        "ChallengeLabel": "COLLECT ALL COINS",
+        "ChallengeType": "CoinCollect",
+        "ChallengeGoal": "102",
+        "UserCompleted": false
+      },
+      {
+        "ChallengeLabel": "COLLECT CHALLENGE STAR",
+        "ChallengeType": "ChallengeStar",
+        "ChallengeGoal": "1",
+        "UserCompleted": false
+      }
+    ]
+  },
+  {
+    "Level": 47,
+    "Challenges": [
+      {
+        "ChallengeLabel": "COMPLETE UNDER 255'",
+        "ChallengeType": "TimeUnder",
+        "ChallengeGoal": "255",
+        "UserCompleted": false
+      },
+      {
+        "ChallengeLabel": "COLLECT ALL COINS",
+        "ChallengeType": "CoinCollect",
+        "ChallengeGoal": "104",
+        "UserCompleted": false
+      },
+      {
+        "ChallengeLabel": "COLLECT CHALLENGE STAR",
+        "ChallengeType": "ChallengeStar",
+        "ChallengeGoal": "1",
+        "UserCompleted": false
+      }
+    ]
+  },
+  {
+    "Level": 48,
+    "Challenges": [
+      {
+        "ChallengeLabel": "COMPLETE UNDER 260'",
+        "ChallengeType": "TimeUnder",
+        "ChallengeGoal": "260",
+        "UserCompleted": false
+      },
+      {
+        "ChallengeLabel": "COLLECT ALL COINS",
+        "ChallengeType": "CoinCollect",
+        "ChallengeGoal": "106",
+        "UserCompleted": false
+      },
+      {
+        "ChallengeLabel": "COLLECT CHALLENGE STAR",
+        "ChallengeType": "ChallengeStar",
+        "ChallengeGoal": "1",
+        "UserCompleted": false
+      }
+    ]
+  },
+  {
+    "Level": 49,
+    "Challenges": [
+      {
+        "ChallengeLabel": "COMPLETE UNDER 265'",
+        "ChallengeType": "TimeUnder",
+        "ChallengeGoal": "265",
+        "UserCompleted": false
+      },
+      {
+        "ChallengeLabel": "COLLECT ALL COINS",
+        "ChallengeType": "CoinCollect",
+        "ChallengeGoal": "108",
+        "UserCompleted": false
+      },
+      {
+        "ChallengeLabel": "COLLECT CHALLENGE STAR",
+        "ChallengeType": "ChallengeStar",
+        "ChallengeGoal": "1",
+        "UserCompleted": false
+      }
+    ]
+  },
+  {
+    "Level": 50,
+    "Challenges": [
+      {
+        "ChallengeLabel": "COMPLETE UNDER 270'",
+        "ChallengeType": "TimeUnder",
+        "ChallengeGoal": "270",
+        "UserCompleted": false
+      },
+      {
+        "ChallengeLabel": "COLLECT ALL COINS",
+        "ChallengeType": "CoinCollect",
+        "ChallengeGoal": "110",
+        "UserCompleted": false
+      },
+      {
+        "ChallengeLabel": "COLLECT CHALLENGE STAR",
+        "ChallengeType": "ChallengeStar",
+        "ChallengeGoal": "1",
+        "UserCompleted": false
+      }
+    ]
+  }
+]

@@ -1,0 +1,43 @@
+{
+
+    "InitialDialog": [
+        {   "index": 0,
+            "characterName": "Astro-BobbyBikeman",
+            "animation": "Astro-BobbyBikeman-Waving",
+            "dialog" : "Hey! You in the ship?! CAN YOU HEAR ME?!",
+            "dialog_sound" : "babble-talk1.mp3"
+        }, {
+            "index": 1,
+            "characterName": "Astro-BobbyBikeman",
+            "animation" : "Astro-BobbyBikeman-Riding",
+            "dialog": "You know how to steer that thing?! Come pick me up!",
+            "dialog_sound" : "babble-talk2.mp3"
+        }
+
+    ],
+    
+    "EndingDialog":[
+        
+        
+       
+            
+            {   "index": 0,
+                "characterName":  "Astro-JohnBike",
+                "dialog" : "Thanks for the pickup! I just bailed out of a crash. REDZ clipped my tailfin like it was rush hour!"
+
+            },
+        {   "index": 1,
+            "characterName":  "Astro-JohnBike",
+            "dialog" : "Lucky for me, I always bring my bike. Crash a plane? Fine. Lose my bike? Never."
+
+        },
+        {   "index": 2,
+            "characterName":  "Astro-JohnBike",
+            "dialog" : "Listen, pilot — REDZ are crawling all over these systems. Stick with me, and I’ll show you the best routes… Just don’t ask me to stop pedaling."
+
+        }
+        
+    ]
+    
+}
+

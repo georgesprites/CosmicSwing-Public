@@ -1,0 +1,33 @@
+{
+
+    "InitialDialog": [
+
+        {   "index": 0,
+            "characterName": "Astro-Flail",
+            "dialog" : "Looks like we need to pickup an Astro near Venus"
+
+        }, {   "index": 1,
+            "characterName": "Astro-Flail",
+            "dialog" : "Be careful of the Earths moon, gravity changes as the orbit of the body moves"
+
+        }, {   "index": 2,
+            "characterName": "Astro-Flail",
+            "dialog" : "Wait for the right time and head to Astro"
+
+        }
+
+    ],
+    
+    "EndingDialog":[
+        
+        
+        
+        {   "index": 0,
+            "characterName": "Astro-Flail",
+            "dialog" : "Gee thanks yall!"
+
+        }
+        
+    ]
+    
+}

@@ -1,0 +1,29 @@
+{
+
+    "InitialDialog": [
+
+        {   "index": 0,
+            "characterName":  "Astro-JohnBike",
+            "dialog" : "No enemies detected. Just coins — like a galactic piggy bank"
+
+        },
+        {
+            "index": 1,
+            "characterName": "Astro-Flail",
+            "dialog" : "Ooooh shiny! Finally, money for snacks!"
+        }
+       
+    ],
+    
+    "EndingDialog":[
+        
+        
+        
+        {   "index": 0,
+            "characterName": "Astro-Flail",
+            "dialog" : "Thanks for the lift! I was about to drop my debut album: Greatest Hits of the Vacuum."
+
+        }
+    ]
+    
+}
